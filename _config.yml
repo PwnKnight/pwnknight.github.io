@@ -3,7 +3,7 @@ title: Emilio Pancubit
 description: 'Cybersecurity Consultant Page'
 url: 'https://pwnknight.github.io'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/emilpan.jpeg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
@@ -11,10 +11,10 @@ font_awesome: 'XXXXXXXXXX.js'
 author:
   name: 'Emilio Pancubit'
   email: emilio.pancubit@hackermail.com
-  twitter_username: thomzuehlke
+  twitter_username: pwnknight
 #  facebook_username: joshgerdes
   github_username:  pwnknight
-  linkedin_username:  thomas-zühlke-889182165
+  linkedin_username:  emilpan
   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
