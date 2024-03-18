@@ -15,6 +15,7 @@ author:
 #  facebook_username: null
   github_username:  pwnknight
   linkedin_username:  emilpan
+  medium_username: @emilio.pancubit
 
 # Build settings
 destination: _site
