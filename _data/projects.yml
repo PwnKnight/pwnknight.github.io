@@ -4,10 +4,8 @@
   repo: wordle-solver
   img: https://user-images.githubusercontent.com/32843441/150650516-1998923f-b836-4256-99b0-a5e3e86a3322.png
 
-- name: Long running Azure Functions on Consumption Plan
-  gh_user: tzuehlke
-  repo: AzureFunction-TimeoutCheck
-  img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
+- name: One of the member who conducted a Purple Team at CMA-CGM.
+  img: https://media.bridewell.com/web/images/default-source/insights/an-introduction-to-purple-teaming.jpg?sfvrsn=205434d3_2
 
 - name: Keycloak Dockerfile with SSH
   gh_user: tzuehlke
