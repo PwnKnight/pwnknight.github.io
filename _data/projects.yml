@@ -5,15 +5,11 @@
 - name: One of the member who conducted a Purple Team at CMA-CGM.
   img: https://www.vhv.rs/dpng/d/65-659067_purple-team-icon-hd-png-download.png
 
-- name: Keycloak Dockerfile with SSH
-  gh_user: tzuehlke
-  repo: keycloakssh
-  img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
+- name: SOC Deployment at Armed Forces of the Philippines
+  img: https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_arms_of_the_Armed_Forces_of_the_Philippines.png
 
-- name: Monopoly Money Manager
-  gh_user: tzuehlke
-  repo: MonopolyMoneyManager
-  img: https://user-images.githubusercontent.com/32843441/103153706-bad12c80-4792-11eb-880b-1bf966d6d2a1.png
+- name: Completed over 10 Vulnerability Assessments and Penetration Testing engagements for various companies located in Thailand.
+  img: https://cybrotech.us/wp-content/uploads/2021/12/vapt.png
 
 - name: Azure Gremlin API
   gh_user: tzuehlke
