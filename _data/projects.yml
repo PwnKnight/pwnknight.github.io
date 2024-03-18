@@ -1,8 +1,6 @@
 # projects section data
-- name: A Wordle Sover as Blazer WebAssembly
-  gh_user: tzuehlke
-  repo: wordle-solver
-  img: https://user-images.githubusercontent.com/32843441/150650516-1998923f-b836-4256-99b0-a5e3e86a3322.png
+- name: API Security Expert Team Lead at CMA-CGM.
+  img: https://nordicapis.com/wp-content/uploads/7-Open-Source-API-Security-Tools-1024x576.png
 
 - name: One of the member who conducted a Purple Team at CMA-CGM.
   img: https://media.bridewell.com/web/images/default-source/insights/an-introduction-to-purple-teaming.jpg?sfvrsn=205434d3_2
