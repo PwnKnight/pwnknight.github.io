@@ -38,6 +38,10 @@ $(document).ready(function () {
     $('a.panel-button').click();
   }
 
+  if (window.location.hash && window.location.hash == '#skills') {
+    $('a.panel-button').click();
+  }
+  
   if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
@@ -50,6 +54,10 @@ $(document).ready(function () {
   })
 
   $('.navigation-wrapper .projects-button').click(function () {
+    toggleMobileMenu();
+  })
+
+  $('.navigation-wrapper .skill-button').click(function () {
     toggleMobileMenu();
   })
 })
