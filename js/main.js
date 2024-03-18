@@ -57,7 +57,7 @@ $(document).ready(function () {
     toggleMobileMenu();
   })
 
-  $('.navigation-wrapper .skill-button').click(function () {
+  $('.navigation-wrapper .skills-button').click(function () {
     toggleMobileMenu();
   })
 })
