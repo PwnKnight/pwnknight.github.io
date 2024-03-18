@@ -15,7 +15,6 @@ author:
 #  facebook_username: joshgerdes
   github_username:  pwnknight
   linkedin_username:  emilpan
-  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
