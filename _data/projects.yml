@@ -1,9 +1,9 @@
 # projects section data
-- name: API Security Expert Team Lead at CMA-CGM.
-  img: https://nordicapis.com/wp-content/uploads/7-Open-Source-API-Security-Tools-1024x576.png
+- name: Team Lead specializing in API Security at CMA-CGM.
+  img: https://w1.pngwing.com/pngs/149/468/png-transparent-black-cloud-open-api-web-api-api-management-interface-web-api-security-computer-software-representational-state-transfer.png
 
 - name: One of the member who conducted a Purple Team at CMA-CGM.
-  img: https://media.bridewell.com/web/images/default-source/insights/an-introduction-to-purple-teaming.jpg?sfvrsn=205434d3_2
+  img: https://www.vhv.rs/dpng/d/65-659067_purple-team-icon-hd-png-download.png
 
 - name: Keycloak Dockerfile with SSH
   gh_user: tzuehlke
